@@ -1,0 +1,20 @@
+
+DATE:  8/18/22                STUDENT REPORT                        01          
+
+        NAME            SCORE   SCORE   SCORE   SCORE   AVERAGE    GRADE        
+
+  ABBOTT   MARILYN       070     100     080     075      81         B          
+  BACH     SUZANNE       100     090     080     080      88         B          
+  CARLSON  THOMAS        000     069     059     045      43         F          
+  CHAVEZ   RITA          090     095     084     076      86         B          
+  DAVIDSON ROBERT        100     009     008     007      31         F          
+  DEERING  STEWART       090     066     084     077      79         C          
+  FRANCIS  DAVID         030     059     088     076      63         D          
+  GREGORY  PAUL          075     084     095     077      83         B          
+  HAMILTON ALEXANDRIA    075     092     099     097      91         A          
+  ISAACSON SAMUEL        060     061     069     067      64         D          
+  KAPLAN   DAVID         070     077     084     099      83         B          
+  LETINSKY MAURICE       013     025     022     008      17         F          
+  LOWREY   JUDITH        080     082     083     084      82         B          
+
+TOTAL MUMBER OF STUDENTS:    13                                                 
